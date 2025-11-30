@@ -6,9 +6,9 @@ Bm   C#7   F#m   Bm7    Em7   A7   Dmaj7   Dm7  -  Dm6  -
 Gm6   Cm/A   G/B   Cm6   C#m7b5   B7/D#   Em   F#m7  -  B7  -
 
 {השאר מצטרפים}
-E         Am6   Emaj7   E7        Am      B7 	         E      E6/B
+E         Am6   Emaj7   E7        Am      B7b9 	         E      E6/B
       בחריפות   הזאת         עוד  יום,              עוד  יום
-E          Am6  Emaj7   E7        Am      B7          E        F#7
+E          Am6  Emaj7   E7        Am      B7b9          E        F#7
       ובצפיפות   הזאת        עוד  יום,              עוד יום
 
 Bm7            C#7     F#m     Bm7
@@ -20,9 +20,9 @@ Gm6           Cm/A   G/B    Cm6
    C#m7b5           B7/D#       Em    F#m7      -  B7     -
 עוד יום,                   עוד יום
 
-E          Am6   Emaj7   E7       Am      B7 	       E     E6/B
+E          Am6   Emaj7   E7       Am      B7b9 	       E     E6/B
       בהשתקפות   הזאת         עוד יום,             עוד יום   (או או או או)
-E          Am6  Emaj7   E7           Am      B7        E        F#7
+E          Am6  Emaj7   E7           Am      B7b9        E        F#7
       בהיחשפות  הזאת           עוד   יום,            עוד יום
 
 Bm7           C#7     F#m         Bm7
@@ -44,10 +44,10 @@ Bm7       C#7      F#m     Bm7
 כן, כוונתי לומר       לא להסתלק, אמצע הדרך
 Gm6            Cm/A   G/B     Cm6
       ויש    גם בזה   נסיון
-   C#m7b5            B7/D#       Em    F#m7      -  B7     -
-עוד יום,                    עוד יום
+   C#m7b5             B7/D#       Em    F#m7      -  B7     -
+עוד יום,                     עוד יום
 
-E         Am6   Emaj7   E7        Am      B7 	         E      B7
+E         Am6   Emaj7   E7        Am      B7b9 	         E      B7
       בחריפות   הזאת         עוד  יום,              עוד  יום
-E         Am6   Emaj7   E7        Am      B7          E
+E         Am6   Emaj7   E7        Am      B7b9          E
       בציפייה   לטוב         עוד  יום,              עוד יום
