@@ -85,7 +85,7 @@ Am        G        Am   G
 הולכת
    G      F  F  G  G  Am  Am   G G
 ומאבדת אותך
-
+{Power chords - שקט}
   C               G
 בחמש        נגמר הלילה
  F             G             Am   G
@@ -96,6 +96,7 @@ F                 C
     כי נגמרו לי השמיים
   F           C       G    G
 ושכחתי איך להתחיל מהתחלה
+{נגמר הקטע השקט}
   Am   G     Am   G          Am  G
 ומעבר לזה    כל הזמן אוהבת אותך
   F    G     F    G!          F
@@ -120,3 +121,6 @@ F    G       Em   Am
 כל           הזמן
 F    G       Em   Am
 F    G       Em   Am
+כל           הזמן
+F    G       Em   Am
+F    G       Em   Am  {fade out}
