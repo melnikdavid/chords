@@ -1,8 +1,8 @@
 במקום הכי נמוך בתל אביב - אסתר שמיר / אסתר שמיר / אסתר שמיר
 
+{פתיחה  X 2}
 F    G       Em   Am
-F    G       Em   Am
-F    G       Em   Am
+{גיטרה מצטרף X 2}
 F    G       Em   Am
 
 Am    G Am     G G Am     G Am      G G
@@ -40,7 +40,7 @@ Am     G         Am   G
 אם שקעתי
      G     F  F  G  G  Am  Am   G G
 או התחלתי לעוף
-
+{קטע שקט Power chords}
   C               G
 בחמש        נגמר הלילה
  F             G             Am   G
@@ -51,15 +51,15 @@ F                 C
     כי נגמרו לי השמיים
   F           C       G    G
 ושכחתי איך להתחיל מהתחלה
+{אנרגיה גבוהה}
   Am   G     Am   G          Am  G
 ומעבר לזה    כל הזמן אוהבת אותך
   F    G     F    G!          F
 ומעבר לזה    כל הזמן אוהבת אותך
 
-[F]    G       Em   Am
+{פתיחה  X 2}
 F    G       Em   Am
-{ריף חשמלית}
-F    G       Em   Am
+{ריף גיטרה X 2}
 F    G       Em   Am
 
 Am    G Am     G G F     G F      G G
@@ -101,19 +101,12 @@ F                 C
 ומעבר לזה    כל הזמן אוהבת אותך
   F    G     F    G!          F
 ומעבר לזה    כל הזמן אוהבת אותך
-{ריף פתיחה}
-[F]  G       Em   Am
+{פתיחה  X 2}
 F    G       Em   Am
-{ריף גיטרה}
+{ריף גיטרה X 4}
 F    G       Em   Am
-F    G       Em   Am
-F    G       Em   Am
-F    G       Em   Am
-{סולו גיטרה}
-F    G       Em   Am
-F    G       Em   Am
-F    G       Em   Am
-F    G       Em   Am
+
+{סולו גיטרה X 4}
 F     G       Em    Am
 כל           הזמן
 F    G       Em   Am
