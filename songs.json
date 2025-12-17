@@ -4613,7 +4613,7 @@
         "youTubeVideoId": "kXeSRsH3ibw"
       },
       "categoryIds": [
-        "1","9"
+        "1"
       ],
       "lyrics": {
         "markupUrl": "https://raw.githubusercontent.com/KidCrippler/songs/master/hebrew_ophir/page208.txt",
@@ -34899,6 +34899,29 @@
       },
       "dateCreated": 1519516800000,
       "dateModified": 1747526400000
+    },
+    {
+      "id": 5000009,
+      "name": "אנטארקטיקה",
+      "singer": "קורין אלאל",
+      "composers": [
+        "קורין אלאל"
+      ],
+      "lyricists": [
+        "חנה גולדברג"
+      ],
+      "playback": {
+        "youTubeVideoId": "kXeSRsH3ibw"
+      },
+      "categoryIds": [
+        "1","9"
+      ],
+      "lyrics": {
+        "markupUrl": "https://raw.githubusercontent.com/melnikdavid/chords/refs/heads/main/page9.txt",
+        "markupVersion": "1"
+      },
+      "dateCreated": 1519516800000,
+      "dateModified": 1665014400000
     }
   ]
 }
